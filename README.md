@@ -3,7 +3,7 @@
 A **full-stack food ordering platform** built for a startup restaurant.  
 Developed with **Node.js, Express, PostgreSQL, and React**, it features **real-time cashier updates via SSE**, **JWT authentication**, and a **mobile-first responsive, user-friendly UI** — deployed on **Render** with **zero downtime**.
 
----
+<br>
 
 ## 🚀 Features
 
@@ -22,8 +22,7 @@ Developed with **Node.js, Express, PostgreSQL, and React**, it features **real-t
 **Admin**
 - Manage menu, categories, and users  
 - Access reports and analytics  
-
----
+<br>
 
 ## ⚙️ Tech Stack
 
@@ -32,28 +31,39 @@ Developed with **Node.js, Express, PostgreSQL, and React**, it features **real-t
 - **Real-Time:** **Server-Sent Events (SSE)** for live cashier updates  
 - **Deployment:** Render (Frontend + Backend & Database)  
 - **Design:** Mobile-first, responsive, fast, and accessible UI  
-
----
+<br>
 
 ## 🔒 Authentication
 - Secure **JWT-based** login & role-based access control  
 - Access and refresh tokens for smooth session handling  
 - Passwords hashed with **bcrypt**  
 
----
+<br>
 
 ## 🔔 Real-Time System
 - **SSE (Server-Sent Events)** keeps cashiers updated instantly  
 - New orders trigger **sound + visual notifications**  
 - No need to refresh pages manually  
 
----
+<br>
 
 ## 🌐 Deployment
 - Hosted on **Render** with **PostgreSQL** and continuous deployment  
 - Auto-build from GitHub with **zero downtime**  
-- HTTPS enforced for all environments  
+- HTTPS enforced for all environments
 
+<br>
+
+
+## 🌐 Live Link
+🔗 [View the deployed app here](https://oh-crepe.onrender.com/)
+
+<br>
+
+## 🗂️ Access to soucrce code
+- Source code is private — access available upon request. 
+
+<br><br>
  
  <img width="1080" height="2400" alt="1000039499" src="https://github.com/user-attachments/assets/2108b5eb-4922-4b7e-9a72-2a34d49a2142" />
 <img width="1080" height="2400" alt="1000039500" src="https://github.com/user-attachments/assets/c65d3928-a719-4707-9444-1f62b397b549" />
