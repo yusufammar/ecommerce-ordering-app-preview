@@ -64,10 +64,15 @@ Developed with **Node.js, Express, PostgreSQL, and React**, it features **real-t
 - Source code is private — access available upon request. 
 
 <br><br>
- 
- <img width="1080" height="2400" alt="1000039499" src="https://github.com/user-attachments/assets/2108b5eb-4922-4b7e-9a72-2a34d49a2142" />
-<img width="1080" height="2400" alt="1000039500" src="https://github.com/user-attachments/assets/c65d3928-a719-4707-9444-1f62b397b549" />
-<img width="1080" height="2400" alt="1000039501" src="https://github.com/user-attachments/assets/200e8680-40e0-47b1-998d-7eedc94fa98f" />
-<img width="1080" height="2400" alt="1000039502" src="https://github.com/user-attachments/assets/27ba6358-f514-437e-8a44-6540c866c5a1" />
-<img width="1080" height="2400" alt="1000039503" src="https://github.com/user-attachments/assets/ecb92e96-2dad-4ae8-9cfd-8899fb6502ad" />
-<img width="1080" height="2400" alt="1000039504" src="https://github.com/user-attachments/assets/dccbe04f-e462-4e66-a8d5-7d222b43230a" />
+
+<img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/a9b50b29-cb88-4b0c-831c-a4156108cf5c" />
+
+<img width="1080" height="2400" alt="2" src="https://github.com/user-attachments/assets/d20b089a-cb60-44a0-9dcc-5718c521d84e" />
+
+<img width="1080" height="2400" alt="3" src="https://github.com/user-attachments/assets/0a510c14-10e6-413f-a649-398adf5785ef" />
+
+<img width="1080" height="2400" alt="4" src="https://github.com/user-attachments/assets/0392e122-25d5-49b2-a993-abf9f30f1ab7" />
+
+<img width="1080" height="2400" alt="5" src="https://github.com/user-attachments/assets/e79c17ef-1cbb-4886-8562-dd48289a923c" />
+
+<img width="1080" height="2400" alt="6" src="https://github.com/user-attachments/assets/fb89f01c-4095-4d78-8e83-a8d3da587c13" />
