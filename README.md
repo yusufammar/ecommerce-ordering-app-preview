@@ -1,6 +1,6 @@
-# 🍴 Food Ordering Website
+# 🍴 E-commerce & Food Ordering Website
 
-A **full-stack food ordering platform** built for a startup restaurant.  
+A **full-stack e-commerce & food ordering platform** built for a startup restaurant.  
 Developed with **Node.js, Express, PostgreSQL, and React**, it features **real-time cashier updates via SSE**, **JWT authentication**, and a **mobile-first responsive, user-friendly UI** — deployed on **Render** with **zero downtime**.
 
 <br>
@@ -21,7 +21,11 @@ Developed with **Node.js, Express, PostgreSQL, and React**, it features **real-t
 
 **Admin**
 - Manage menu, categories, and users  
-- Access reports and analytics  
+- Access reports and analyticsp
+- Set Store Logo
+- Set Currency
+- Upload Products Excel File
+- Upload Products Images
 <br>
 
 ## ⚙️ Tech Stack
