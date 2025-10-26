@@ -51,13 +51,22 @@ Developed with **Node.js, Express, PostgreSQL, and React**, it features **real-t
 
 <br>
 
-## 🌐 Deployment
-- Hosted on **Render** with **PostgreSQL** and continuous deployment  
-- Auto-build from GitHub with **zero downtime**  
-- HTTPS enforced for all environments
 
+## 🌐 Deployment & Capacity
+- Hosted on **Render** with **PostgreSQL** with continuous deployment
 <br>
 
+- **Suitable for:** Small to medium restaurants or stores
+- **Stack:** Web Service - Render Starter Plan (0.5 vCPU, 512MB RAM) +  DB - Postgres 1GB  
+- **Capacity:** Handles 100–500 orders/day, 100 peak orders/hour, and 50+ concurrent users
+- **Cost:** ~$13.25/month combined for web and database  
+<br>
+
+- Auto-build from GitHub with **zero downtime**  
+- HTTPS enforced for all environments
+- Designed for moderate daily loads; performance may vary under very high traffic.
+
+<br>
 
 ## 🌐 Live Link
 🔗 [View the deployed app here](https://oh-crepe.onrender.com/)
